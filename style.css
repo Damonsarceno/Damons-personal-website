@@ -1,117 +1,144 @@
 body {
-    margin: auto;
-    color: white;
-    background-color:black;
-    text-align: center;
-    font-family: "Unbounded" , sans-serif;
-    
-  }
-  .image1 { 
-    height: 300px;
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    border: 10px solid rgb(49, 18, 225);
-  }
-  .image2 {
-    height: 300px;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    border: 10px solid rgb(49, 18, 225)
+  margin: auto;
+  color: white;
+  background-color:black;
+  text-align: center;
+  font-family: "Unbounded" , sans-serif;
+  
+}
+.image1 { 
+  height: 300px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 10px solid rgb(49, 18, 225);
+}
+.image2 {
+  height: 300px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 10px solid rgb(49, 18, 225)
 
-  }
-  .image3 {
-    height: 300px;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    border: 10px solid rgb(49, 18, 225)
+}
+.image3 {
+  height: 300px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 10px solid rgb(49, 18, 225)
 
-  }
-  h1 {
-    
-    font-size: 50px;
-  }
+}
+.image4 {
+  
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: auto;
+}
+.image4:hover {
+  opacity: .6;
+}
+.image5 {
+  
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: auto;
+}
+.image5:hover {
+  opacity: .6;
+}
+h1 {
+  
+  font-size: 5vw ;
+}
 
-  h2 {
-    
-    font-size: 30px;
-    color: white;
-    font:normal ;
-   }
-  h3 {
-   
-    padding: 25px ;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: blue ;
-    border-style: outset ;
-    border-radius: 20px ; 
-    opacity: .99 ;
-    background-image: linear-gradient(grey, white, grey);
-    font-size: 30px;
-    color: rgb(9, 9, 9);
-    font:normal ;
+h2 {
+  
+  font-size: 30vw;
+  color: white;
+  font:normal ;
+ }
+h3 {
+ 
+  padding: 25px ;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: blue ;
+  border-style: outset ;
+  border-radius: 20px ; 
+  opacity: .99 ;
+  background-image: linear-gradient(grey, white, grey);
+  font-size: 30px ;
+  color: rgb(9, 9, 9);
+  font:normal ;
 
-  }
-  h4 { 
-    padding: 25px ;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: red;
-    border-style: outset ;
-    border-radius: 20px ; 
-    opacity: .99 ;
-    background-image: linear-gradient(grey, white, grey);
-    font-size: 30px;
-    color: rgb(9, 9, 9);
-    font:normal ;
-  }
-  h5 { 
-    padding: 25px ;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    border-color:green;
-    border-style: outset ;
-    border-radius: 20px ; 
-    opacity: .99 ;
-    background-image: linear-gradient(grey, white, grey);
-    font-size: 30px;
-    color: rgb(9, 9, 9);
-    font:normal ;
-  }
-  h6 { 
-    padding: 25px ;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: yellow ;
-    border-style: outset ;
-    border-radius: 20px ; 
-    opacity: .99 ;
-    background-image: linear-gradient(grey, white, grey);
-    font-size: 30px;
-    color: rgb(9, 9, 9);
-    font:normal ;
-  }
-  p {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    text-align: center;
-    text-decoration: wavy;
-    width:900px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .iframe1 {
-    
-    width: 400px;
-    height: min-content;
-  }
+}
+h4 { 
+  padding: 25px ;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: red;
+  border-style: outset ;
+  border-radius: 20px ; 
+  opacity: .99 ;
+  background-image: linear-gradient(grey, white, grey);
+  font-size: 30px;
+  color: rgb(9, 9, 9);
+  font:normal ;
+}
+h5 { 
+  height: fit-content;
+  padding: 25px ;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-color:green;
+  border-style: outset ;
+  border-radius: 20px ; 
+  opacity: .99 ;
+  background-image: linear-gradient(grey, white, grey);
+  font-size: 30px;
+  color: rgb(9, 9, 9);
+  font:normal ;
+}
+h6 { 
+  padding: 25px ;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: yellow ;
+  border-style: outset ;
+  border-radius: 20px ; 
+  opacity: .99 ;
+  background-image: linear-gradient(grey, white, grey);
+  font-size: 30px;
+  color: rgb(9, 9, 9);
+  font:normal ;
+}
+h7 {
+  margin: auto;
+  font-style: oblique;
+  font-size: 35px;
+  text-align: justify;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: wavy;
+  width:900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.iframe1 {
+  
+  width: 400px;
+  height: min-content;
+}
