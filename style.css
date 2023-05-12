@@ -33,21 +33,24 @@ body {
 
 }
 .image4 {
-  
+  height: 300px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200px;
   width: auto;
+  
+  
 }
 .image4:hover {
   opacity: .6;
 }
 .image5 {
-  
+  height: 300px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200px;
   width: auto;
+  
 }
 .image5:hover {
   opacity: .6;
@@ -126,7 +129,7 @@ h7 {
   margin: auto;
   font-style: oblique;
   font-size: 35px;
-  text-align: justify;
+  text-align: center;
 }
 p {
   font-family: 'Times New Roman', Times, serif;
@@ -139,6 +142,6 @@ p {
 }
 .iframe1 {
   
-  width: 400px;
-  height: min-content;
+  width: 500px;
+  height: 100px;
 }
